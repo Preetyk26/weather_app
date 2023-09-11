@@ -3,25 +3,23 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/yashk9293/weather_webApp)
   ![GitHub stars](https://img.shields.io/github/stars/yashk9293/weather_webApp)
   ![GitHub forks](https://img.shields.io/github/forks/yashk9293/weather_webApp?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Yashk_9293?style=social)](https://twitter.com/intent/follow?screen_name=Yashk_9293)
 
 </div>
 
 # "Simple Weather Application using HTML, CSS &amp; JavaScript"
-In this weather app, you can get the weather details of a particular city by entering the city name. Details like temperature in celsius, humidity, windspeed, current time, day and date of the city is provided. Weather emoji icon depending upon the weather condition is shown for better visualisation effect.
+In this weather app, you can get the weather details of a particular city by entering the city name. Details like temperature in celsius, humidity, windspeed, current time, day and date of the city is provided. Weather emoji icon depending upon the weather condition is shown for better visualization effect.
 
-Live Demo : https://yashk9293.github.io/weather_webApp/
+Live Demo : https://preetyk26.github.io/weather_app
 
 ## Show some :heart: and :star: the repo if you like the design.
-![WeatherApp](https://github.com/yashk9293/weather_webApp/blob/main/images/demo_interface.png)
+![WeatherApp](https://github.com/Preetyk26/weather_app/blob/master/images/demo_interface.png)
 
 ## Author
 
-👤 **Yash Kumar**
+👤 **Preety**
 
-- Github: [@githubhandle](https://github.com/yashk9293)
-- Twitter: [@twitterhandle](https://twitter.com/Yashk_9293)
-- Linkedin: [linkedin](https://www.linkedin.com/in/yashk9293/)
+- Github: [@githubhandle](https://github.com/Preetyk26)
+
 
 ### Prerequisites
 
@@ -36,13 +34,13 @@ To run **weather application** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/yashk9293/weather_webApp.git
+sudo git clone https://github.com/Preetyk26/weather_app.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/yashk9293/weather_webApp.git
+git clone https://github.com/Preetyk26/weather_app.git
 ```
 
 <br>
